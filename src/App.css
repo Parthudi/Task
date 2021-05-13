@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+
+.sizing {
+  margin : 10px 10px;
+  padding: 10px;
+}
+
+.buttons {
+   text-align: center;
+}
+
+.butt {
+  border-radius: 50px;
+  margin : 10px 2px 30px 15px;
+  align-content: center;
+}
